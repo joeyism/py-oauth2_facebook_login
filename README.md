@@ -1,5 +1,5 @@
 # oauth2_facebook_login
-Gets OAuth2 access token from Facebook automatically
+Gets OAuth2 access token from Facebook automatically, using [requests_oauthlib](https://github.com/requests/requests-oauthlib)
 
 ## Installation
 
